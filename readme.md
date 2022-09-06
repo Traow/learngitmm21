@@ -7,3 +7,7 @@
 #### branch develop
 
 Joonas
+
+Mati
+Kati
+Malle
